@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  },
+  "name": "shopify-website-builder",
+  "version": "1.0.0",
+  "description": "This is the repo for learning how to integrate with shopify themes and build websites through it. Also make changes to specific pages or formats.",
+  "main": "get-token.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkbs-support/Shopify-Website-Builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tkbs-support/Shopify-Website-Builder/issues"
+  },
+  "homepage": "https://github.com/tkbs-support/Shopify-Website-Builder#readme"
+}

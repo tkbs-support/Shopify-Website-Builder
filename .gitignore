@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Audit working data — regenerable from scripts (jsonl exports, live-site HTML,
+# image cache, preview PDFs, analysis json). Matches any data/ dir at any depth.
+# (Already-tracked theme deltas under Clothing-Cove/data/themes/ stay tracked.)
+data/
+*.json
+!package.json
+!package-lock.json
+
+# Store snapshots / restore points — large; re-pulled fresh before any change batch
+snapshots/
+
+# Cached image blobs and large binary build artifacts
+*.img
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel temp files
+~$*.xlsx
+
+# Claude Code
+.claude/

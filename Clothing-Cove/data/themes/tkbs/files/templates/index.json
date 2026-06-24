@@ -7,14 +7,14 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Website_Banners_DESKTOP_23.jpg",
-            "mobile_image": "shopify://shop_images/Mobile_banners_12.jpg",
+            "image": "shopify:\/\/shop_images\/Website_Banners_DESKTOP_23.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Mobile_banners_12.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "Shop Now",
-            "button_1_link": "shopify://collections/brands-rachel-marie-designs",
+            "button_1_link": "shopify:\/\/collections\/brands-rachel-marie-designs",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -22,14 +22,14 @@
         "dadcc779-7579-43d6-a268-44c0452b20bf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Website_Banners_DESKTOP_25.jpg",
-            "mobile_image": "shopify://shop_images/Mobile_banners_14.jpg",
+            "image": "shopify:\/\/shop_images\/Website_Banners_DESKTOP_25.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Mobile_banners_14.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "Shop now",
-            "button_1_link": "shopify://collections/new-arrivals",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -37,14 +37,14 @@
         "image_MQjW9P": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Website_Banners_DESKTOP_24.jpg",
-            "mobile_image": "shopify://shop_images/Mobile_banners_13.jpg",
+            "image": "shopify:\/\/shop_images\/Website_Banners_DESKTOP_24.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Mobile_banners_13.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "Customer Appreciation Sale",
             "button_1_text": "",
-            "button_1_link": "shopify://collections/customer-apprecation",
+            "button_1_link": "shopify:\/\/collections\/customer-apprecation",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -52,14 +52,14 @@
         "image_cKMgkd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Website_Banners_DESKTOP_16.jpg",
-            "mobile_image": "shopify://shop_images/Mobile_banners_6.jpg",
+            "image": "shopify:\/\/shop_images\/Website_Banners_DESKTOP_16.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Mobile_banners_6.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "Women's Clothing Sale",
             "button_1_text": "",
-            "button_1_link": "shopify://collections/sale",
+            "button_1_link": "shopify:\/\/collections\/sale",
             "button_2_text": "",
             "button_2_link": ""
           },
@@ -68,14 +68,14 @@
         "image_xJAeDh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/brightonbanner.jpg",
-            "mobile_image": "shopify://shop_images/Liverpool-_mobile_banner_11.png",
+            "image": "shopify:\/\/shop_images\/brightonbanner.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Liverpool-_mobile_banner_11.png",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
             "button_1_text": "Shop Now",
-            "button_1_link": "shopify://collections/brighton",
+            "button_1_link": "shopify:\/\/collections\/brighton",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -110,7 +110,7 @@
             "subheading": "Latest From The Cove",
             "title": "New Apparel & Accessories",
             "button_text": "View products",
-            "button_link": "shopify://collections/clothing",
+            "button_link": "shopify:\/\/collections\/clothing",
             "apply_overlay": true
           }
         },
@@ -118,7 +118,7 @@
           "type": "collection",
           "settings": {
             "collection": "dresses-evening",
-            "image": "shopify://shop_images/ChatGPT_Image_Mar_12_2026_03_25_27_PM_dc68e51a-b747-4d27-89c3-60b8cfd7587b.png",
+            "image": "shopify:\/\/shop_images\/ChatGPT_Image_Mar_12_2026_03_25_27_PM_dc68e51a-b747-4d27-89c3-60b8cfd7587b.png",
             "image_alignment": "top center",
             "content_position": "bottomLeft",
             "subheading": "Dresses",
@@ -132,7 +132,7 @@
           "type": "collection",
           "settings": {
             "collection": "brighton",
-            "image": "shopify://shop_images/Untitled_design_-_2026-04-23T145731.011.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2026-04-23T145731.011.png",
             "image_alignment": "bottom center",
             "content_position": "bottomLeft",
             "subheading": "Brighton Accessories",
@@ -146,7 +146,7 @@
           "type": "collection",
           "settings": {
             "collection": "brands-renuar",
-            "image": "shopify://shop_images/r10051-pull-on-boot-leg-pant-black_2787be93-bedd-48b9-ac0d-15be40031179.jpg",
+            "image": "shopify:\/\/shop_images\/r10051-pull-on-boot-leg-pant-black_2787be93-bedd-48b9-ac0d-15be40031179.jpg",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "Perfect Fit",
@@ -173,11 +173,11 @@
           "type": "collection",
           "settings": {
             "collection": "shop-with-purpose-home",
-            "image": "shopify://shop_images/Untitled_design_-_2026-04-23T150036.487.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2026-04-23T150036.487.png",
             "image_alignment": "center center",
             "content_position": "bottomLeft",
             "subheading": "TENACITY HOME",
-            "title": "Home D\u00e9cor & Gifts",
+            "title": "Home Décor & Gifts",
             "button_text": "Shop",
             "button_link": "",
             "apply_overlay": true
@@ -207,7 +207,7 @@
         "look_kayJAG": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2026-04-23T151304.979.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2026-04-23T151304.979.png",
             "dot_style": "light",
             "product_1": "brighton-jm7440-ferrar-2-tn-luce-small-pendant",
             "product_1_horizontal_position": 50,
@@ -223,7 +223,7 @@
         "8c8cf0bd-3ea9-498b-a0ec-8f9c73a0a47c": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_-_2026-04-24T130652.950.png",
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2026-04-24T130652.950.png",
             "dot_style": "light",
             "product_1": "rmd-shinora-necklace",
             "product_1_horizontal_position": 52,
@@ -243,7 +243,7 @@
       ],
       "settings": {
         "subheading": "What's Trending",
-        "title": "Shop The Look \u2014 Jewelry & Accessories",
+        "title": "Shop The Look — Jewelry & Accessories",
         "show_mobile_product_info": true
       }
     },
@@ -251,7 +251,7 @@
       "type": "apps",
       "blocks": {
         "026f27ef-f55b-493a-9b28-c5b601fadd9c": {
-          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
@@ -281,14 +281,14 @@
       "custom_css": [],
       "settings": {
         "title": "The Clothing Cove",
-        "address": "<p>414 North Main Street Milford, MI 48381</p><p>248-685-2500</p>",
-        "hours": "<p><strong>Monday-Wednesday, Friday 10am-6pm</strong></p><p><strong>Thursday 10am - 8pm</strong></p><p><strong>Saturday 9:30 - 6:00\u00a0</strong></p><p><strong>Closed On Sundays </strong></p><p><strong>Watch our Live Events:                  Tuesday 12:30 & 3:00 PM      Wednesday 9:15 AM Coffee & Crystals    with Rachel Marie Designs         Thursday 12:30 PM on our app, Facebook & Instagram</strong></p><p><strong>Download the free Clothing Cove App on your app store now!</strong></p>",
+        "address": "<p>414 North Main Street Milford, MI 48381<\/p><p>248-685-2500<\/p>",
+        "hours": "<p><strong>Monday-Wednesday, Friday 10am-6pm<\/strong><\/p><p><strong>Thursday 10am - 8pm<\/strong><\/p><p><strong>Saturday 9:30 - 6:00 <\/strong><\/p><p><strong>Closed On Sundays <\/strong><\/p><p><strong>Watch our Live Events:                  Tuesday 12:30 & 3:00 PM      Wednesday 9:15 AM Coffee & Crystals    with Rachel Marie Designs         Thursday 12:30 PM on our app, Facebook & Instagram<\/strong><\/p><p><strong>Download the free Clothing Cove App on your app store now!<\/strong><\/p>",
         "map_address": "414 North Main Street, Milford MI 48381",
         "map_link_label": "Get directions",
         "api_key": "AIzaSyCYxukoCJoMcn0ms-BxSVMfupFRagF4Zpw",
         "zoom": 16,
         "map_style": "retro",
-        "image": "shopify://shop_images/Untitled_design_-_2026-03-12T151553.557.png"
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2026-03-12T151553.557.png"
       }
     },
     "8e37aa6d-96a7-4b52-9960-39a91e420fc4": {
@@ -297,12 +297,12 @@
         "template--15088810197107__8e37aa6d-96a7-4b52-9960-39a91e420fc4-168025743169664bb2-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Eric_And_Genise_Tenacity.jpg",
+            "image": "shopify:\/\/shop_images\/Eric_And_Genise_Tenacity.jpg",
             "apply_overlay": true,
             "title": "About Us",
             "subheading": "Then And Now",
             "heading": "Celebrating 39 Years In Downtown Milford",
-            "content": "<p>It all began in 1987 when my husband, Eric, and I opened an exercise business, California Toning of Milford, where we also sold trendy workout gear. By 1990, we knew that we loved the business of selling great sportswear, special occasion clothing, jewelry and accessories to the women of Milford, Michigan and the surrounding area. We dropped the exercise portion, and, with a change of the name, and business model, The Clothing Cove was born.\u00a0<br/>We have been living the dream, working side by side, ever since. In 2017, we celebrated 30 years in the ladies clothing retail business with many of those who have supported us throughout the decades. We love what we do, and also those who work alongside us! The entire staff of The Clothing Cove, from the office, support staff, and web personnel, to the sales professionals who tend the sales floor, feel privileged to serve our community. They help to create a fun and welcoming environment in which women can shop with exceptional customer service . They strive to serve the local community with honesty and integrity.<br/>Blessed beyond measure, we felt led to help a cause that touched our hearts. We wanted to build awareness of the plight of women caught in the throes of sex trafficking and do our part to help put an end to this local epidemic. In August of 2017, we opened, Tenacity Boutique, right next to The Clothing Cove. The more \"casual sister\u201d of the Cove, Tenacity, means \u2018with a firm grip or purpose\u2019. A portion of our Tenacity proceeds helps support Hope Against Trafficking in Pontiac, Michigan. This non-profit organization helps survivors rescued from trafficking in Michigan.<br/>We strive to purchase US and North American made products with a special emphasis on merchandise that is domestically or locally made. Fair Trade, Eco friendly and ethically made items are also searched out. You can feel good about your purchase because many of our lines are philanthropic in some way, or they themselves also support those caught in sex trafficking and drug addiction.<br/>Our hope is that you enjoy the vast array of carefully selected fashion and curated items found in both stores and visit us often to help us do good in our neighborhood and beyond.</p>"
+            "content": "<p>It all began in 1987 when my husband, Eric, and I opened an exercise business, California Toning of Milford, where we also sold trendy workout gear. By 1990, we knew that we loved the business of selling great sportswear, special occasion clothing, jewelry and accessories to the women of Milford, Michigan and the surrounding area. We dropped the exercise portion, and, with a change of the name, and business model, The Clothing Cove was born. <br\/>We have been living the dream, working side by side, ever since. In 2017, we celebrated 30 years in the ladies clothing retail business with many of those who have supported us throughout the decades. We love what we do, and also those who work alongside us! The entire staff of The Clothing Cove, from the office, support staff, and web personnel, to the sales professionals who tend the sales floor, feel privileged to serve our community. They help to create a fun and welcoming environment in which women can shop with exceptional customer service . They strive to serve the local community with honesty and integrity.<br\/>Blessed beyond measure, we felt led to help a cause that touched our hearts. We wanted to build awareness of the plight of women caught in the throes of sex trafficking and do our part to help put an end to this local epidemic. In August of 2017, we opened, Tenacity Boutique, right next to The Clothing Cove. The more \"casual sister” of the Cove, Tenacity, means ‘with a firm grip or purpose’. A portion of our Tenacity proceeds helps support Hope Against Trafficking in Pontiac, Michigan. This non-profit organization helps survivors rescued from trafficking in Michigan.<br\/>We strive to purchase US and North American made products with a special emphasis on merchandise that is domestically or locally made. Fair Trade, Eco friendly and ethically made items are also searched out. You can feel good about your purchase because many of our lines are philanthropic in some way, or they themselves also support those caught in sex trafficking and drug addiction.<br\/>Our hope is that you enjoy the vast array of carefully selected fashion and curated items found in both stores and visit us often to help us do good in our neighborhood and beyond.<\/p>"
           }
         }
       },
@@ -319,7 +319,7 @@
         "subheading": "Your Destination for Women's Fashion",
         "title": "Women's Clothing & Accessories in Milford, MI",
         "image_position": "right",
-        "content": "<p>The Clothing Cove carries over 2,000 designer dresses - from casual day dresses to mother-of-the-bride gowns and evening wear in sizes petite through plus. Our curated selection includes perfect-fit pants by Renuar and Sympli, premium denim from Liverpool and Judy Blue, and layering pieces in fabrics like bamboo, cotton, and wrinkle-free blends.</p><p>Complete your look with Brighton jewelry, handcrafted Rachel Marie Designs pieces, and accessories ranging from leather handbags to scarves and sunglasses. Locally owned since 1987, we're proud to feature US-made and fair trade brands alongside our designer collections.</p><p><a href=\"/collections\">Shop All Collections</a></p>",
+        "content": "<p>The Clothing Cove carries over 2,000 designer dresses - from casual day dresses to mother-of-the-bride gowns and evening wear in sizes petite through plus. Our curated selection includes perfect-fit pants by Renuar and Sympli, premium denim from Liverpool and Judy Blue, and layering pieces in fabrics like bamboo, cotton, and wrinkle-free blends.<\/p><p>Complete your look with Brighton jewelry, handcrafted Rachel Marie Designs pieces, and accessories ranging from leather handbags to scarves and sunglasses. Locally owned since 1987, we're proud to feature US-made and fair trade brands alongside our designer collections.<\/p><p><a href=\"\/collections\">Shop All Collections<\/a><\/p>",
         "link_text": "",
         "link_url": ""
       }
